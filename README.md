@@ -17,6 +17,7 @@ A great little app to keep a journal of any notes on code. Users can add or dele
 - React MD Editor
 - Redux
 - Immer
+- Lerna
 
 ## Getting Started
 
