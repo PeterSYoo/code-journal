@@ -5,7 +5,7 @@ import path from 'path';
 interface Cell {
   id: string;
   content: string;
-  type: text | code;
+  type: 'text' | 'code';
 }
 
 export const createCellsRouter = (filename: string, dir: string) => {
