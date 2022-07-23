@@ -32,6 +32,6 @@ Type show() inside the code editor to display the values inside the parenthesis 
 
 ## Unsolved Problems
 
-I lost all 60+ git commit histories after accidently doing a git --force push. You can see all the git commit history @ https://api.github.com/repos/petersyoo/code-journal/events.
+I lost all 60+ git commit histories after accidently doing a git --force push. You can see all the git commit histories @ https://api.github.com/repos/petersyoo/code-journal/events.
 
 Need to find out a way to revert back the the git commit histories in a simply easy way.
