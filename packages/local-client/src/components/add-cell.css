@@ -1,0 +1,37 @@
+.add-cell {
+  position: relative;
+  opacity: 25%;
+  transition: 0.3s ease-in;
+}
+
+.add-cell:hover {
+  opacity: 1;
+}
+
+.divider {
+  position: absolute;
+  top: 50%;
+  bottom: 50%;
+  right: 15%;
+  left: 15%;
+  border-bottom: 1px solid #A8938A;
+  width: 70%;
+  z-index: -1;
+}
+
+.add-buttons {
+  display: flex;
+  justify-content: center;
+}
+
+.add-cell--btn {
+  background-color: #625550;
+  background-repeat:no-repeat;
+  border: none;
+  cursor: pointer;
+  overflow: hidden;
+  padding: 5px 15px 5px 15px;
+  color: #c6aea4;
+  margin: 0 50px;
+  border-radius: 5px;
+}

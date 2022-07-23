@@ -1,0 +1,21 @@
+.action-bar-wrapper {
+  height: 25px;
+  width: 100%;
+  background-color: #625550;
+}
+
+.action-bar {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+.action-bar--btn {
+  background-color: transparent;
+  background-repeat:no-repeat;
+  border: none;
+  cursor: pointer;
+  overflow: hidden;
+  padding: 5px 10px 0 10px;
+  color: #271b16;
+}
