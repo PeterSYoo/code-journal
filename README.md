@@ -20,7 +20,21 @@ A great little app to keep a journal of any notes on code. Users can add or dele
 
 ## Getting Started
 
+The app itself is published on npm. You can type
+
+```
+npx codejournal serve
+```
+
+in your terminal and it should ask you to download then start the app on localhost:4005. It'll save the contents of the code journal in a js file in the same directory you did the command in.
+
 Type show() inside the code editor to display the values inside the parenthesis on the preview side panel. Able to display variables, arrays, objects, and JSX elements.
+
+## Unsolved Problems
+
+I lost all 60+ git commit histories after accidently doing a git --force push. You can see all the git commit history @ https://api.github.com/repos/petersyoo/code-journal/events.
+
+Need to find out away to revert back the the git commit histories in a simply easy way.
 
 ## Future Enhancemnts
 
