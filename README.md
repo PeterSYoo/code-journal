@@ -6,6 +6,10 @@ A great little app to keep a journal of any notes on code. Users can add or dele
 ![](https://i.imgur.com/rqzwK1r.png)
 ![](https://i.imgur.com/VtyiLzh.png)
 
+## Video Demo
+
+[![demo](https://img.youtube.com/vi/OSw-yf6Htcg/maxresdefault.jpg)](https://www.youtube.com/watch?v=OSw-yf6Htcg)
+
 ## Technologies Used
 
 - React 18
